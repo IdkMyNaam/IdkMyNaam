@@ -32,7 +32,7 @@ A sleek and powerful Hypixel SkyBlock stats website! 🚀
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aceistt&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IdkMyNaam&show_icons=true&theme=radical)
 
 ---
 
