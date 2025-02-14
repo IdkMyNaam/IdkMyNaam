@@ -1,4 +1,4 @@
-# Hi there, I'm Aceist 👋
+# Hi there, I'm Idkmynaam 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and learning new things every day. Here's a little about me:
 
